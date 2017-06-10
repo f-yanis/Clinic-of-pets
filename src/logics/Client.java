@@ -3,6 +3,9 @@ package logics;
 import animals.Pet;
 
 
+/**
+ * Класс описывает клиента
+ */
 public class Client {
     private String id;
     private String name;
